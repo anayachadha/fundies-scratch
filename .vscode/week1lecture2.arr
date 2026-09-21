@@ -2,8 +2,8 @@ use context starter2024
 a = 'hello world '
 b = a + ' ' 
 
-string-length(a)
-string-repeat(a,5)
+string-length(a) #length of string
+string-repeat(a,5) #repeats the string 5 times
 
 "cs" + "2000"
 
@@ -39,3 +39,4 @@ below(rectangle(80, 60, "solid", "black") , triangle(90, "outline", "yellow"))
 
 #beside((first image) , (second image))
 beside(circle(30, "solid", "dark blue") , triangle(90, "outline", "white"))
+
