@@ -55,4 +55,3 @@ billed
 #SYNTAX
 #build column(table, 'new column', line total)
 #transform-column(table, 'exisiting column', add-vat)
-
